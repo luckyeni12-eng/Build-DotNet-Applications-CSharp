@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\bin\Debug\net8.0\Module2-IntroductionToDotNet.exe
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\bin\Debug\net8.0\Module2-IntroductionToDotNet.deps.json
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\bin\Debug\net8.0\Module2-IntroductionToDotNet.runtimeconfig.json
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\bin\Debug\net8.0\Module2-IntroductionToDotNet.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\bin\Debug\net8.0\Module2-IntroductionToDotNet.pdb
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\Module2-IntroductionToDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\Module2-IntroductionToDotNet.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\Module2-IntroductionToDotNet.AssemblyInfo.cs
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\Module2-IntroductionToDotNet.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\Module2-IntroductionToDotNet.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\refint\Module2-IntroductionToDotNet.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\Module2-IntroductionToDotNet.pdb
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\Module2-IntroductionToDotNet.genruntimeconfig.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module2-IntroductionToDotNet\obj\Debug\net8.0\ref\Module2-IntroductionToDotNet.dll

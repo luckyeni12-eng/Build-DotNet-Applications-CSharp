@@ -1,0 +1,53 @@
+### GET all pizzas
+
+GET http://localhost:5031/Pizzas
+Accept: application/json
+
+###
+
+### GET one pizza
+
+GET http://localhost:5031/Pizzas/4
+Accept: application/json
+
+###
+
+### POST a pizza
+
+POST http://localhost:5031/Pizzas
+Content-Type: application/json
+
+{
+"name": "Veggie Supreme",
+"sauce": "Tomato",
+"toppings": [
+"Mozzarella",
+"Mushroom",
+"Bell Pepper",
+"Onion"
+]
+}
+
+###
+
+### PUT a pizza
+
+PUT http://localhost:5031/Pizzas/4
+Content-Type: application/json
+
+{
+"name": "BBQ Chicken Deluxe",
+"sauce": "BBQ",
+"toppings": [
+"Mozzarella",
+"Chicken",
+"Red Onion",
+"Bell Pepper"
+]
+}
+
+###
+
+### DELETE a pizza
+
+DELETE http://localhost:5031/Pizzas/4

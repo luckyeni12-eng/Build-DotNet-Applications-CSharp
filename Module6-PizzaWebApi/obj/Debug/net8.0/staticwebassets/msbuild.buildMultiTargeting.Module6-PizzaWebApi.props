@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Module6-PizzaWebApi.props" />
+</Project>

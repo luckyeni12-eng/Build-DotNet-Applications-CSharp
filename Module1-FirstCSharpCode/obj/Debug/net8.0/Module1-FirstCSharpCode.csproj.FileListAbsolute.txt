@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\bin\Debug\net8.0\Module1-FirstCSharpCode.exe
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\bin\Debug\net8.0\Module1-FirstCSharpCode.deps.json
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\bin\Debug\net8.0\Module1-FirstCSharpCode.runtimeconfig.json
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\bin\Debug\net8.0\Module1-FirstCSharpCode.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\bin\Debug\net8.0\Module1-FirstCSharpCode.pdb
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\Module1-FirstCSharpCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\Module1-FirstCSharpCode.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\Module1-FirstCSharpCode.AssemblyInfo.cs
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\Module1-FirstCSharpCode.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\Module1-FirstCSharpCode.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\refint\Module1-FirstCSharpCode.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\Module1-FirstCSharpCode.pdb
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\Module1-FirstCSharpCode.genruntimeconfig.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module1-FirstCSharpCode\obj\Debug\net8.0\ref\Module1-FirstCSharpCode.dll

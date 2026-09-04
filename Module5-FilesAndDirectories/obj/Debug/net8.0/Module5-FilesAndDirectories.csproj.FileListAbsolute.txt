@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\bin\Debug\net8.0\Module5-FilesAndDirectories.exe
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\bin\Debug\net8.0\Module5-FilesAndDirectories.deps.json
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\bin\Debug\net8.0\Module5-FilesAndDirectories.runtimeconfig.json
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\bin\Debug\net8.0\Module5-FilesAndDirectories.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\bin\Debug\net8.0\Module5-FilesAndDirectories.pdb
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\Module5-FilesAndDirectories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\Module5-FilesAndDirectories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\Module5-FilesAndDirectories.AssemblyInfo.cs
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\Module5-FilesAndDirectories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\Module5-FilesAndDirectories.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\refint\Module5-FilesAndDirectories.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\Module5-FilesAndDirectories.pdb
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\Module5-FilesAndDirectories.genruntimeconfig.cache
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\obj\Debug\net8.0\ref\Module5-FilesAndDirectories.dll
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\bin\Debug\net8.0\sales-data\sales-01.txt
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\bin\Debug\net8.0\sales-data\sales-02.txt
+C:\Users\USER\Desktop\Build-DotNet-Applications-CSharp\Module5-FilesAndDirectories\bin\Debug\net8.0\sales-data\sales-03.txt

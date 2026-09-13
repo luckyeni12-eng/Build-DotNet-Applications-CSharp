@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\Module4-Debugging.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\Module4-Debugging.csproj": {}
   },
   "projects": {
-    "c:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\Module4-Debugging.csproj": {
+    "C:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\Module4-Debugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\Module4-Debugging.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\Module4-Debugging.csproj",
         "projectName": "Module4-Debugging",
-        "projectPath": "c:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\Module4-Debugging.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\Module4-Debugging.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Build-DotNet-Applications-CSharp\\Module4-Debugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

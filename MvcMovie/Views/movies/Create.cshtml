@@ -1,0 +1,122 @@
+@model MvcMovie.Models.Movie
+
+@{
+    ViewData["Title"] = "Create Movie";
+}
+
+<h1>Create Movie</h1>
+
+<h4>Add a new movie to Lucky Eni Movies</h4>
+
+<hr />
+
+<div class="row">
+
+    <div class="col-md-6">
+
+        <form asp-action="Create">
+
+            <div asp-validation-summary="ModelOnly"
+                 class="text-danger">
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Title"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Title"
+                       class="form-control" />
+
+                <span asp-validation-for="Title"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="ReleaseDate"
+                       class="form-label">
+                </label>
+
+                <input asp-for="ReleaseDate"
+                       class="form-control" />
+
+                <span asp-validation-for="ReleaseDate"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Genre"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Genre"
+                       class="form-control" />
+
+                <span asp-validation-for="Genre"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Price"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Price"
+                       class="form-control" />
+
+                <span asp-validation-for="Price"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <div class="mb-3">
+
+                <label asp-for="Rating"
+                       class="form-label">
+                </label>
+
+                <input asp-for="Rating"
+                       class="form-control"
+                       placeholder="Example: PG-13" />
+
+                <span asp-validation-for="Rating"
+                      class="text-danger">
+                </span>
+
+            </div>
+
+            <button type="submit"
+                    class="btn btn-primary">
+                Create
+            </button>
+
+            <a asp-action="Index"
+               class="btn btn-outline-secondary">
+                Back to List
+            </a>
+
+        </form>
+
+    </div>
+
+</div>
+
+@section Scripts {
+
+    @{
+        await Html.RenderPartialAsync(
+            "_ValidationScriptsPartial");
+    }
+
+}

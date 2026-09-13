@@ -1,0 +1,73 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #f8f9fa;
+}
+
+.hero {
+    background: linear-gradient(
+        135deg,
+        #e9f2ff,
+        #ffffff
+    );
+
+    border: 1px solid #dbe7f5;
+}
+
+.search-card {
+    background-color: #ffffff;
+
+    border: 1px solid #dee2e6;
+
+    border-radius: 0.75rem;
+
+    padding: 1.25rem;
+
+    box-shadow:
+        0 0.125rem 0.25rem
+        rgba(0, 0, 0, 0.075);
+}
+
+/*
+    RUBRIC REQUIREMENT #6
+
+    Add padding to form input elements
+    throughout the application.
+*/
+
+input,
+select,
+textarea {
+    padding: 0.65rem 0.75rem !important;
+}
+
+input[type="number"],
+input[type="date"],
+input[type="text"] {
+    min-height: 44px;
+}
+
+.navbar-brand {
+    letter-spacing: 0.2px;
+}
+
+.table {
+    background-color: #ffffff;
+}
+
+.card {
+    border: 0;
+}
+
+.footer {
+    background-color: #ffffff;
+}

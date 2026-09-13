@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="hero p-5 mb-4 rounded-3">
+
+    <div class="container-fluid py-3">
+
+        <h1 class="display-5 fw-bold">
+            Welcome to Lucky Eni Movies
+        </h1>
+
+        <p class="col-md-8 fs-5">
+            A simple ASP.NET Core MVC movie application
+            for managing, searching, and viewing movie records.
+        </p>
+
+        <a asp-controller="Movies"
+           asp-action="Index"
+           class="btn btn-primary btn-lg">
+            View My Movies
+        </a>
+
+    </div>
+
+</div>
+
+<div class="row g-4">
+
+    <div class="col-md-4">
+
+        <div class="card h-100 shadow-sm">
+
+            <div class="card-body">
+
+                <h2 class="h4">MVC</h2>
+
+                <p>
+                    Controllers, views, and models work together
+                    to build the application.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div class="card h-100 shadow-sm">
+
+            <div class="card-body">
+
+                <h2 class="h4">
+                    Entity Framework Core
+                </h2>
+
+                <p>
+                    Movie information is stored and managed
+                    through SQL Server and Entity Framework Core.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-4">
+
+        <div class="card h-100 shadow-sm">
+
+            <div class="card-body">
+
+                <h2 class="h4">CRUD</h2>
+
+                <p>
+                    Create, read, update, and delete movie
+                    records from the Movies page.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
